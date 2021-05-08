@@ -1,7 +1,9 @@
 ### Hello There,<img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">This is MRK-YT<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-[![telegram Cont](https://img.shields.io/badge/MRK-YT-30302f?style=flat&logo=telegram)](https://telegram.dog/MRK_YT) [![Website Github.com](https://img.shields.io/Github-Web-down-blue-red/http/shields.io.svg)](https://github.com/MRK-YT)  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jikkubot/) [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ..ㅤping@-InFoTelGroup-RED.svg)](https://telegram.dog/InFoTelGroup)
-
+[![Telegram Cont](https://img.shields.io/badge/MRK-YT-30302f?style=flat&logo=telegram)](https://telegram.dog/MRK_YT) 
+[![Github Web](https://img.shields.io/badge/Github-Web-30302f?style=flat&logo=Github)](https://github.com/MRK_YT) 
+[![Telegram Channel](https://img.shields.io/badge/MoTech-YT-30302f?style=flat&logo=telegram)](https://telegram.dog/Mo_Tech_YT)
+[![Instagram](https://img.shields.io/badge/MRK-YT-30302f?style=flat&logo=Instagram)](https://www.instagram.com/mrk_yt_) 
 
 <!--
 **MRK-YT/MRK-YT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
